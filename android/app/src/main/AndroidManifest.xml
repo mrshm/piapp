@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.piapp">
+  package="com.mrshm.piapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

@@ -1,4 +1,4 @@
-package com.piapp;
+package com.mrshm.piapp;
 
 import com.facebook.react.ReactActivity;
 
